@@ -82,7 +82,7 @@ I am a **B.Tech Computer Engineering** student specializing (Honors) in **Data S
 ## 📫 Connect with Me
 
 <div>
-  <a href="https://www.linkedin.com/in/rpgholap" target="_blank">
+  <a href="https://www.linkedin.com/in/gholaprutuja01" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/rpgholap" target="_blank">
