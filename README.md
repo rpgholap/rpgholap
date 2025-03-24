@@ -49,6 +49,11 @@ I am a **B.Tech Computer Engineering** student specializing (Honors) in **Data S
 - **Tech Used**: Python, OpenCV, concurrent futures
 - **Description**: Implemented parallel image filtering to speed up processing, optimizing performance for handling high-resolution images efficiently.
 
+### 6. **Sports Event Management System (SEMS)**
+- **Repository**: [SEMS](https://github.com/rpgholap/SEMS)
+- **Tech Used**: Java, Spring Boot, MySQL, React.js
+- **Description**: A comprehensive examination management system designed to streamline student assessments, automate result processing, and improve administrative efficiency.
+
 ---
 
 ## 📈 GitHub Stats & Activity
@@ -63,7 +68,7 @@ I am a **B.Tech Computer Engineering** student specializing (Honors) in **Data S
 
 ## 🎓 Education & Certifications
 
-- **B.Tech Honors Computer Engineering** student specializing in **Data Science** 
+- **B.Tech Honors Computer Engineering** student specializing in **Data Science**  
   Sanjivani College of Engineering, **Final Year**  
   - Key Subjects: Data Structures, Machine Learning, Cryptography, Data Visualization
 
@@ -97,9 +102,11 @@ I am a **B.Tech Computer Engineering** student specializing (Honors) in **Data S
 
 ## 🌿 Personal Interests
 
-I'm passionate about **sustainable development** and enjoy **planting trees** whenever I can. I believe in contributing to a greener future through technology and awareness. 
+I'm passionate about **sustainable development** and enjoy **planting trees** whenever I can. I believe in contributing to a greener future through technology and awareness.  
 Additionally, I have a keen interest in **exploring and learning about different forts** and their history. This fascination drives my curiosity and love for uncovering the stories behind these historic structures.
 
 ### 💭 "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
+
+Feel free to suggest any modifications! 🚀😊  
